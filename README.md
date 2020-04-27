@@ -5,6 +5,8 @@ Run file 'IndexCreation.py' creates documents data on basis of tf-idf score
 1. creates term frequency dictionary
 2. creates document frequency dictionary
 3. finally, create a dictionary contains tf-idf score
+# create folder name "tf_idf_output"
+4. finally add files on basis of similar doc_id to tf_idf_output folder e.g : doc_id[1].txt, doc_id[2].txt, doc_id[3].txt....
 
 Run file "QueryProcessing.py" finds top 10 relevant dictionary on basis of query
 1. iterate each data file to find matching query
