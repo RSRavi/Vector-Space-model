@@ -1,0 +1,5 @@
+nltk
+bs4
+re
+math
+os
