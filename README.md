@@ -1,4 +1,4 @@
-# Vector-Space-modal
+# Vector-Space-model
 Ranking of documents on basis of tf-idf score
 
 Run file 'IndexCreation.py' creates documents data on basis of tf-idf score
